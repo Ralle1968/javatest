@@ -9,7 +9,7 @@ public class apples {
 		System.out.println("Enter second number: ");
 		snum = in.nextDouble();
 		answer = fnum + snum;
-		System.out.println(answer);
+		System.out.println("Das Ergebnis lautet: " + answer);
 	}
 
 }
